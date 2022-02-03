@@ -1,0 +1,5 @@
+﻿Premium Action Plugins will be included only in the commercial version of this software.
+
+The commercial version will contain AI-independent assistant which will analyze the whole system and fix anything that needs to be fixed (following the user's preference).
+
+The Premium Action Plugins will be available to be downloaded in the premium version release. This version is open-source and contains only the standard ActionPlugins.
